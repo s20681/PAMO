@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">BottomNavigationExample</string>
+    <string name="title_start">Start</string>
+    <string name="title_BMI">BMI</string>
+    <string name="title_calories">Kalorie</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="bmi">BMI</string>
+    <string name="enter_age">Enter your age </string>
+    <string name="Energy_Burn">Energy Burn</string>
+    <string name="Male">Mężczyzna: </string>
+    <string name="Female">Kobieta: </string>
+    <string name="paragraph1">1 tbls vegetable oil
+
+1 lb boneless skinless chicken breast, cut into 1-inch pieces
+
+2 garlic cloves, finely chopped
+
+2 tsps gingerroot, finely chopped
+
+1 medium onion,  orange quote icon scrubbed with clean vegetable brush under running water and cut into thin wedges
+
+1 cup baby carrots, orange quote icon scrubbed with clean vegetable brush under running and cut lengthwise in half
+1 cup chicken broth soup
+3 tbls soy sauce
+2 tsps sugar
+2 cups broccoli flowerets orange quote icon gently rubbed under cold running water
+1 cup (3 ounces) fresh mushrooms orange quote icon gently rubbed under cold running water and diced
+    Cook the bacon pieces in a large sauce pan over medium heat for 5 minutes.  orange quote icon Wash hands with soap and water after handling bacon.
+Add onion to sauce pan with the bacon; sauté until translucent, about 5 minutes. Add green beans and potatoes to the sauce pan with just enough water to cover.
+Bring to a boil, then reduce the heat to low. Add salt and pepper and cover. Simmer about 1 hour or until the beans are tender. Stir occasionally and add more water if necessary to keep the beans covered.
+
+
+
+
+1 lb boneless skinless chicken breast, cut into 1-inch pieces
+
+2 garlic cloves, finely chopped
+
+2 tsps gingerroot, finely chopped
+
+1 medium onion,  orange quote icon scrubbed with clean vegetable brush under running water and cut into thin wedges
+1 cup baby carrots, orange quote icon scrubbed with clean vegetable brush under running and cut lengthwise in half
+1 cup chicken broth soup
+3 tbls soy sauce
+2 tsps sugar
+2 cups broccoli flowerets orange quote icon gently rubbed under cold running water
+1 cup (3 ounces) fresh mushrooms orange quote icon gently rubbed under cold running water and diced
+½ cup red bell pepper orange quote icon scrubbed with clean vegetable brush under running water and diced
+2 tsps cornstarch
+4 cups hot cooked Chinese plain noodles</string>
+    <string name="title_recipes">Przepisy</string>
+</resources>
