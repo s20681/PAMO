@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BottomNavigationExample</string>
+    <string name="title_start">Start</string>
+    <string name="title_BMI">BMI</string>
+    <string name="title_calories">Kalorie</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="bmi">BMI</string>
+    <string name="enter_age">Enter your age </string>
+    <string name="Energy_Burn">Energy Burn</string>
+    <string name="Male">Mężczyzna: </string>
+    <string name="Female">Kobieta: </string>
+    <string name="title_recipes">Przepisy</string>
+    <string name="addToChart">Add to chart</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="question_text">question text will be placed here</string>
+    <string name="yourAnswer">Answer:</string>
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+    <string name="apply">apply</string>
+    <string name="your_selection">Your selection:</string>
+    <string name="yourPoints">Your points: %1$d</string>
+    <string name="questionText1">Are eggs raising cholesterol levels?</string>
+    <string name="questionText2">Does Olive oil prevent heart disease?</string>
+    <string name="questionText3">Can sugary soft drinks lead to diabetes?</string>
+    <string name="questionText4">Is drinking fruit juice as good for you as eating fruit?</string>
+    <string name="questionText5">Does all wheat breads better for you than white bread?</string>
+    <string name="questionText6">Can you drink too much water?</string>
+    <string name="questionText7">Is Red wine better for you than white wine?</string>
+    <string name="questionText8">Is Bottled water better for you than tap water?</string>
+    <string name="bmiLabel">BMI</string>
+</resources>
